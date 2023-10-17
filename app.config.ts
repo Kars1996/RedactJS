@@ -1,9 +1,9 @@
 export default defineAppConfig({
   docus: {
-    title: 'DevTools',
-    titleTemplate: "DevTools",
-    url: 'https://devtools.kars.bio',
-    description: 'SuperCharge React Development; Code Faster, Build Beter.',
+    title: 'RedactJS',
+    titleTemplate: "RedactJS",
+    url: 'https://js.redact.tools',
+    description: 'Fast And Powerful Discord.js Bot Builder to Simplify and Beautify your discord bot.',
     image: 'https://media.kars.bio/assets/react/cover.png',
     socials: {
       twitter: 'nuxt_js',
@@ -17,8 +17,8 @@ export default defineAppConfig({
     github: {
       dir: '.starters/default/content',
       branch: 'main',
-      repo: 'ReactDevTools',
-      owner: 'kars1996',
+      repo: 'redactcord',
+      owner: 'redactdev',
       edit: true
     },
     aside: {
@@ -33,7 +33,7 @@ export default defineAppConfig({
     header: {
       logo: false,
       showLinkIcon: true,
-      title: 'React DevTools',
+      title: 'ReactJS',
       exclude: [],
       fluid: true,
 
