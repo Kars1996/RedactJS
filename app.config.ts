@@ -7,7 +7,7 @@ export default defineAppConfig({
     image: 'https://media.kars.bio/assets/react/cover.png',
     socials: {
       twitter: 'nuxt_js',
-      github: 'nuxt-themes/docus',
+      github: 'redactDev/redactcord',
       nuxt: {
         label: 'Nuxt',
         icon: 'simple-icons:nuxtdotjs',
@@ -45,3 +45,4 @@ export default defineAppConfig({
       }
   }}
 })
+
